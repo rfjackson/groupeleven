@@ -12,7 +12,7 @@ body {
 }
 #div2 {
     text-align: left;
-    color: inherit;
+    color: rgb(20, 20, 20);
     margin: 10px;
     padding: 5px;
 }
