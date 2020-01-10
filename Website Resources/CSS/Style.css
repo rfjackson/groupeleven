@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: rgb(140, 140, 140);
+    background-color: rgb(196, 196, 196);
     color: rgb(221, 221, 221);
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
@@ -14,6 +14,6 @@ body {
 #div2 {
     text-align: left;
     color: rgb(20, 20, 20);
-    margin: 10px;
+    margin: 100px;
     padding: 5px;
 }
